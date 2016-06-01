@@ -1,4 +1,0 @@
-# Ignore everything in this directory (i.e., NEVER allow git to track any files in this directory)
-*
-# Except this file
-!.gitignore
